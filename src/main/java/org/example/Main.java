@@ -20,6 +20,7 @@ public class Main {
         userDate.put("tanaka", "大阪に住んでいます");
         userDate.put("yamada", "東京に住んでいます");
         userDate.put("suzuki", "名古屋に住んでいます");
+        userDate.put("kimura", "沖縄に住んでいます");
 
         if (userDate.containsKey("tanaka")) {
             System.out.println("この人は存在しています。");
